@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TaylorRay2
+- 👀 I’m interested in programming and learning JAVA, C, Python, as well as web development
+- 🌱 I’m currently studying analysis and systems development at college
+- 💞️ I’m looking to collaborate on 
+- 📫 How to reach me at my email: taylorsmainacc@outlook.com or at my linkedin: www.linkedin.com/in/taylor-rayan-de-araujo-fernandes-b130751a3/
